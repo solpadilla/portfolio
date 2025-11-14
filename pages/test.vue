@@ -49,7 +49,7 @@ onMounted(() => {
       fillOpacity: 0.05,
       map,
       center: location,
-      radius: 83.1 * 1000 // 83.1 km in meters
+      radius: marketScan.range * 1000 // Convert km to meters
     })
 
     const marker = new google.maps.Marker({

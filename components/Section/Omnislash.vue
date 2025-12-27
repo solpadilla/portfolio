@@ -1,6 +1,6 @@
 <template>
   <h2 class="text-[32px] my-4 font-sans font-bold">
-    <nuxt-link class="flex items-center gap-1" to="https://web.archive.org/web/20250709091739/https://omnislash.com/" target="_blank" rel="noopener noreferrer">
+    <nuxt-link class="flex items-center gap-1" to="/omnislash" target="_blank" rel="noopener noreferrer">
       <div class="p-0.5 bg-black rounded-sm">
         <img height="19" width="20" src="/omnislash/logo.png" alt="Omnislash Logo" data-not-lazy />
       </div>
@@ -9,7 +9,7 @@
   </h2>
 
   <div class="relative font-raj">
-    <nuxt-link to="https://web.archive.org/web/20250709091739/https://omnislash.com/" target="_blank" rel="noopener noreferrer">
+    <nuxt-link to="/omnislash" target="_blank" rel="noopener noreferrer">
       <img class="rounded-md" width="682" alt="Omnislash" src="/omnislash/omnislash.png" data-not-lazy />
     </nuxt-link>
   </div>

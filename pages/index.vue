@@ -25,6 +25,9 @@
           <SectionM2M />
         </section>
         <section>
+          <SectionFNAF />
+        </section>
+        <section>
           <SectionContact />
         </section>
 

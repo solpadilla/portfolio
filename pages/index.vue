@@ -19,6 +19,9 @@
           <SectionMccStats />
         </section>
         <section>
+          <SectionHaloRecord />
+        </section>
+        <section>
           <SectionOmnislash />
         </section>
         <section>

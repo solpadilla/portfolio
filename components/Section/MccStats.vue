@@ -60,7 +60,7 @@
     <nuxt-link to="https://mccstats.pythonanywhere.com/" target="_blank" rel="noopener noreferrer">
       <UIButton>View Live</UIButton>
     </nuxt-link>
-    <nuxt-link to="https://github.com/goryfigment/halo" target="_blank" rel="noopener noreferrer">
+    <nuxt-link to="https://github.com/solpadilla/halo" target="_blank" rel="noopener noreferrer">
       <UIButton>View Code</UIButton>
     </nuxt-link>
   </div>

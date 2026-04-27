@@ -31,6 +31,9 @@
           <SectionFNAF />
         </section>
         <section>
+          <SectionEmotesizer />
+        </section>
+        <section>
           <SectionContact />
         </section>
 

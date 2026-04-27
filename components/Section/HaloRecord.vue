@@ -6,7 +6,7 @@
   </h2>
 
   <!-- Interactive Showcase Container (always dark) -->
-  <nuxt-link to="https://halorecord.com" target="_blank" rel="noopener noreferrer" aria-hidden="true" class="block cursor-pointer bg-[#0d0d0d] border border-[#2a2a2a] shadow-[0_0_30px_rgba(0,212,255,0.08)] rounded-xl overflow-hidden p-5 md:p-6 w-full max-w-[685px]">
+  <nuxt-link to="https://halorecord.com" target="_blank" rel="noopener noreferrer" aria-hidden="true" class="block cursor-pointer bg-[#0d0d0d] border border-[#2a2a2a] rounded-xl overflow-hidden p-5 md:p-6 w-full max-w-[685px]">
     <div class="flex flex-col gap-4">
 
       <!-- Mini Header Bar -->

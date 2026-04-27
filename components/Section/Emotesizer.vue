@@ -183,6 +183,9 @@
     <nuxt-link to="https://emotesizer.com" target="_blank" rel="noopener noreferrer">
       <UIButton>View Live</UIButton>
     </nuxt-link>
+    <nuxt-link to="https://github.com/solpadilla/emotesizer" target="_blank" rel="noopener noreferrer">
+      <UIButton>View Code</UIButton>
+    </nuxt-link>
   </div>
 </template>
 

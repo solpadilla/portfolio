@@ -34,6 +34,9 @@
           <SectionEmotesizer />
         </section>
         <section>
+          <SectionSportseekr />
+        </section>
+        <section>
           <SectionContact />
         </section>
 

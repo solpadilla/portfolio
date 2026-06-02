@@ -37,6 +37,9 @@
           <SectionSportseekr />
         </section>
         <section>
+          <SectionLegitski />
+        </section>
+        <section>
           <SectionContact />
         </section>
 
